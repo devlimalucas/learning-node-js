@@ -1,0 +1,20 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "description": "Projeto criado durante o aprendizado do ambiente de execução Node.js .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devlimalucas/learning-node-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devlimalucas/learning-node-js/issues"
+  },
+  "homepage": "https://github.com/devlimalucas/learning-node-js#readme"
+}
